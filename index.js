@@ -17,8 +17,7 @@ function yourAnimal() {
 }
 
 function add2(n) {
-  if (n = 6);
-  return n + 250;
+  return n;
 
   // Feel free to move things around!
 }
