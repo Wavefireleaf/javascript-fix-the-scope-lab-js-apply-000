@@ -3,7 +3,7 @@ anima = 'cat';
 anima = 'dog';
 
 function myAnimal() {
-  return anima();
+  return animal();
 }
 
 function yourAnimal() {
